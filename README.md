@@ -9,7 +9,7 @@ I love to make games, bots, AIs, websites, mobile apps, and more!
 <img align="left" width="33px" alt="ChickenDevs' Most Used Languages" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" width="33px" alt="ChickenDevs' Most Used Languages" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
 
-<br>
+<br><br>
 
 ### Stats
 ---
