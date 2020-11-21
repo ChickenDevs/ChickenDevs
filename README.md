@@ -1,4 +1,4 @@
-## Hey! I'm ChickenDevs(Chicc 🐤), a Full Stack Indie Dev!
+## Hey! I'm ChickenDevs(Chicc 🐤), a Full Stack Developer!
 I love to make games, bots, AIs, websites, mobile apps, and more!
 
 <br><br>
